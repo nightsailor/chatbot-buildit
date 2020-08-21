@@ -1,5 +1,5 @@
 # chat_bot-buildit
-Challenge:
+
 Implement a Chat Room application which should contain features as mentioned below.
 A user should be able to sign-in and or sign-up.
 A user should be able to see other users.
